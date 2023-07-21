@@ -6,7 +6,7 @@
 
 <br>
 
-## <img src = "https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/avtar.gif" width = 50px> **About me**
+## <img src = "/images/avtar.gif" width = 50px> **About me**
 
 <img align="right" src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/hero.gif" width = 250px>
 
