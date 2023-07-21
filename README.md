@@ -6,7 +6,7 @@
 
 <br>
 
-## <img src = "images/avtar.gif" width = 50px> **About me**
+## <img src = "https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/avtar.gif" width = 50px> **About me**
 
 <img align="right" src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/hero.gif" width = 250px>
 
@@ -14,7 +14,7 @@
 
 - A passionate Self-taught Front-end developer.<br>
 - Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
-- Currently learning Web Development and Backend Development by Self Study.
+- Working as Frontend Developer AT Ditinex
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
@@ -66,36 +66,10 @@
   <br>
   <br>
   <br>
-
-<img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
-
-<br>
-
-## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br>
-
-<div align="center">
-<a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashMaurya10&theme=tokyonight&hide_border=false)](https://github.com/VikashMaurya10" alt="Vikash GitHub Stats Graph"/></a>
-
-<br>
-<br>
-
-<a href="#"><img width='90%' alt="Vikash GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VikashMaurya10&bg_color=181925&color=6FEDD6&line=FFA3FD&point=FFFFFF&area=true&area_color=FEDEFF&hide_border=true&radius=10" /></a>
-
-<br>
-<br>
-<!-- 
-<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=0&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a> -->
-
-<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.metadata=0&base.hireable=true&repositories.forks=true&base.header=0&base.community=0&base.repositories=0&languages=1&achievements=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a>
-
 </div>
 <br>
 <br>
 <br>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img src="./images/line.gif">
 
 <br>
 
@@ -103,10 +77,10 @@
 
 <br>
 
-[![@in-vikashmaurya](https://img.icons8.com/fluency/48/000000/linkedin.svg "@in-vikashmaurya")](https://www.linkedin.com/in/in-vikashmaurya/)
-[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.svg "@vikashmauryastp")](https://www.instagram.com/vikashmauryastp/)
-[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new.svg "@vikashmaurya10stp@gmail.com")](mailto:vikashmaurya10stp@gmail.com)
-[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.svg "@VikashMauryastp")](https://www.facebook.com/VikashMauryastp)
+[![@in-vikashmaurya](https://img.icons8.com/fluency/48/000000/linkedin.svg "@in-vikashmaurya")](https://www.linkedin.com/in/in-vikas/)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.svg "@vikashmauryastp")](https://www.instagram.com/devloper_vikas/)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new.svg "@vikashmaurya10stp@gmail.com")](mailto:msg_Vikas@yahoo.com)
+[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.svg "@VikashMauryastp")](https://www.facebook.com/profile.php?id=100014907286411)
 
 <br>
 <br>
