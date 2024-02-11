@@ -5,6 +5,7 @@
 **Contact:**
 
 * Email: code.jay.dev@gmail.com
+* Yahoo: msg_vikas@yahoo.com
 * LinkedIn: Vikas Kumar Patel: www.linkedin.com/in/in-vikas <invalid URL removed>
 
 Top Skills:
