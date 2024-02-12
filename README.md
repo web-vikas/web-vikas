@@ -17,7 +17,8 @@ Top Skills:
 
 **About Me:**
 
-I am a dynamic and results-oriented Associate Software Engineer with a strong foundation in the MERN stack and 9 months of hands-on experience at Ditinex. I am passionate about crafting efficient software solutions and excel in front-end development, leveraging expertise in TypeScript, React.js, and Tailwind CSS. With a proven track record of delivering impactful projects within tight deadlines, I am eager to contribute my skills and drive innovation in your team.
+
+As a highly motivated MERN Stack developer with 1 years of experience, I bring life to interactive web applications using React, Node.js, Express, and MongoDB. Combining my passion for seamless user interfaces with a knack for robust backend architectures, I deliver high-quality, efficient code that meets your needs. Adept at tackling complex challenges with a collaborative spirit, I'm eager to learn and adapt to the ever-evolving MERN landscape. Let's connect and create something amazing! 
 
 **Experience:**
 
