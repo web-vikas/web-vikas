@@ -13,8 +13,10 @@ Top Skills:
 * JavaScript: JavaScript Fundamentals, Advanced JS techniques
 * TypeScript: Next.js, Express.js
 * Back-End: Node.js, Express.js
-* Database: MongoDB
-
+* Database: MongoDB, MySQL , PostgreSQL, firestore
+* Application Developement : React Navtive , Expo
+* Ui Library : shadcn , antd , nextui 
+  
 **About Me:**
 
 
