@@ -22,21 +22,6 @@ As a highly motivated MERN Stack developer with 1 years of experience, I bring l
 
 **Experience:**
 
-**Ditinex**
-
-* **Associate Software Engineer** (June 2023 - November 2023)
-    * Developed and maintained software solutions using the MERN stack.
-    * Collaborated with cross-functional teams to deliver projects on time and budget.
-    * Redesigned the company's flagship product, resulting in a 30% increase in user engagement.
-* **Frontend Developer** (April 2023 - June 2023)
-    * Designed and implemented user-facing features using React.js and Tailwind CSS.
-    * Collaborated with backend developers to integrate frontend components.
-    * Optimized web applications for speed and scalability, resulting in a 10% improvement in page load times and a 30% increase in user engagement.
-
-Certainly, I can expand on your experience at Aasa Technology. I'll add more details and responsibilities to give a fuller picture of your role and accomplishments. Here's an enhanced version:
-
-**Experience:**
-
 **Aasa Technology**
 
 * **Full Stack Developer** (March 2024 - Present)
@@ -51,6 +36,18 @@ Certainly, I can expand on your experience at Aasa Technology. I'll add more det
     * Conducted code reviews and mentored junior developers, fostering a culture of continuous learning and improvement.
     * Collaborated closely with UX/UI designers to translate wireframes and mockups into pixel-perfect, interactive interfaces.
     * Actively participated in Agile development processes, including daily stand-ups, sprint planning, and retrospectives.
+
+
+**Ditinex**
+
+* **Associate Software Engineer** (June 2023 - November 2023)
+    * Developed and maintained software solutions using the MERN stack.
+    * Collaborated with cross-functional teams to deliver projects on time and budget.
+    * Redesigned the company's flagship product, resulting in a 30% increase in user engagement.
+* **Frontend Developer** (April 2023 - June 2023)
+    * Designed and implemented user-facing features using React.js and Tailwind CSS.
+    * Collaborated with backend developers to integrate frontend components.
+    * Optimized web applications for speed and scalability, resulting in a 10% improvement in page load times and a 30% increase in user engagement.
 
 **Education:**
 
