@@ -33,6 +33,25 @@ As a highly motivated MERN Stack developer with 1 years of experience, I bring l
     * Collaborated with backend developers to integrate frontend components.
     * Optimized web applications for speed and scalability, resulting in a 10% improvement in page load times and a 30% increase in user engagement.
 
+Certainly, I can expand on your experience at Aasa Technology. I'll add more details and responsibilities to give a fuller picture of your role and accomplishments. Here's an enhanced version:
+
+**Experience:**
+
+**Aasa Technology**
+
+* **Full Stack Developer** (March 2024 - Present)
+    * Lead developer on multiple end-to-end projects, successfully delivering both solo and team-based solutions.
+    * Contributed significantly to company growth, helping increase overall productivity by 25%.
+    * Designed and implemented scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+    * Developed and optimized RESTful APIs, improving system performance and response times by 40%.
+    * Implemented advanced state management solutions using Redux and Context API, enhancing application efficiency and user experience.
+    * Utilized TypeScript to improve code quality and reduce bugs in production by 30%.
+    * Integrated third-party APIs and services to expand application functionality and features.
+    * Implemented responsive design principles, ensuring seamless user experiences across various devices and screen sizes.
+    * Conducted code reviews and mentored junior developers, fostering a culture of continuous learning and improvement.
+    * Collaborated closely with UX/UI designers to translate wireframes and mockups into pixel-perfect, interactive interfaces.
+    * Actively participated in Agile development processes, including daily stand-ups, sprint planning, and retrospectives.
+
 **Education:**
 
 * **Bundelkhand University** (2021-2023)
