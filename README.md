@@ -12,7 +12,7 @@ Top Skills:
 * Front-End Design: React, Tailwind CSS
 * JavaScript: JavaScript Fundamentals, Advanced JS techniques
 * TypeScript: Next.js, Express.js
-* Back-End: Node.js, Express.js
+* Back-End: Node.js, Express.js, Pythoon, Django
 * Database: MongoDB, MySQL , PostgreSQL, firestore
 * Application Developement : React Navtive , Expo
 * Ui Library : shadcn , antd , nextui 
