@@ -31,6 +31,15 @@ With a proven track record of optimizing application performance, implementing b
 
 **Experience:**
 
+
+**Ditinex**
+
+**Generative AI Engineer** (November 2024 - Present)  
+- Developed and maintained AI-powered applications using Django for the backend and React for the frontend.  
+- Integrated generative AI models to enhance product capabilities, improving user engagement by 30%.  
+- Collaborated with cross-functional teams to build scalable AI-driven solutions, ensuring timely and budget-friendly project delivery.  
+- Optimized AI model deployment and API performance, reducing response times and enhancing user experience.
+
 **Aasa Technology**
 
 * **Full Stack Developer** (March 2024 - Present)
