@@ -7,6 +7,7 @@
 * Email: code.jay.dev@gmail.com
 * Yahoo: msg_vikas@yahoo.com
 * LinkedIn: Vikas Kumar Patel: www.linkedin.com/in/in-vikas <invalid URL removed>
+* Portfolio : https://in-vikas.vercel.app/
 
 Top Skills:
 * Front-End Design: React, Tailwind CSS
